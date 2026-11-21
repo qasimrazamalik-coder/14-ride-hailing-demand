@@ -1,0 +1,11 @@
+{
+  "title": "Ride-hailing Demand & Pricing",
+  "domain": "mobility",
+  "primary_dimension": "zone",
+  "kpis": [
+    "Completed Trips",
+    "Cancellation Rate",
+    "Driver Utilization",
+    "Revenue per Trip"
+  ]
+}
